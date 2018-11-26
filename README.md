@@ -19,7 +19,7 @@ One minute pitch is an interactive app whereby users can share on their creative
 | Click on view comment| New page loads | All and you see acomments and pitch made
 
 ## View Live Site here
-View the complete site [here]
+View the complete site at https://pitchdee.herokuapp.com/
 
 
 ## Technologies Used
